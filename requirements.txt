@@ -1,0 +1,6 @@
+anki==24.6.3
+aqt==24.6.3
+beautifulsoup4==4.12.3
+nltk==3.9.1
+pyenchant==3.2.2
+PyQt6==6.7.1
